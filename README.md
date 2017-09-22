@@ -56,3 +56,5 @@ https://blog.docker.com/2017/09/get-familiar-docker-enterprise-edition-client-bu
 Microsoft and Canonical Increase Velocity with Azure Tailored Kernel
 https://insights.ubuntu.com/2017/09/21/microsoft-and-canonical-increase-velocity-with-azure-tailored-kernel/
 
+Compute IP address ranges (including SQL ranges) used by the Microsoft Azure Datacenters - Updated each week
+https://www.microsoft.com/en-us/download/details.aspx?id=41653&751be11f-ede8-5a0c-058c-2ee190a24fa6=True
