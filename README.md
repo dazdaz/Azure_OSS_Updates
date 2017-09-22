@@ -1,7 +1,7 @@
 # Azure_OSS_Updates
-Purpose: Track Azure OSS Updates, Links, Comments, Notes, OSS on Azure
-Disclaimer: Personal colleciton of links, not endorsed by Microsoft
-
+Purpose: Track Azure OSS Updates, Links, Comments, Notes, OSS on Azure<br>
+Disclaimer: Personal colleciton of links, not endorsed by Microsoft<br>
+<br>
 Date: 22/09/2017<br>
 https://github.com/Azure/acs-engine/releases/tag/v0.7.0
 
