@@ -43,3 +43,16 @@ https://www.cncf.io/blog/2017/09/08/windows-networking-parity-linux-kubernetes/
 
 Node-level autoscaler for Kubernetes clusters created with acs-engine
 https://github.com/wbuchwalter/Kubernetes-acs-engine-autoscaler
+
+Learn about all the features available in VSTS and TFS
+https://docs.microsoft.com/en-us/vsts/user-guide/alm-devops-features
+
+Chef Habitat Integration for VSTS in the Visual Studio Marketplace
+https://blog.chef.io/2017/09/19/habitat-integration-for-vsts-in-visual-studio-marketplace/
+
+Docker Enterprise Edition Client Bundles
+https://blog.docker.com/2017/09/get-familiar-docker-enterprise-edition-client-bundles/
+
+Microsoft and Canonical Increase Velocity with Azure Tailored Kernel
+https://insights.ubuntu.com/2017/09/21/microsoft-and-canonical-increase-velocity-with-azure-tailored-kernel/
+
