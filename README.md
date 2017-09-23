@@ -3,7 +3,8 @@ Purpose: Track Azure OSS Updates, Links, Comments, Notes, OSS on Azure<br>
 Disclaimer: Personal colleciton of links, not endorsed by Microsoft<br>
 <br>
 Date: 22/09/2017<br>
-https://github.com/Azure/acs-engine/releases/tag/v0.7.0
+Update: #1
+https://github.com/Azure/acs-engine/releases/tag/v0.7.0<br>
 
 <pre>
 Highlights / Overview :
@@ -58,3 +59,6 @@ https://insights.ubuntu.com/2017/09/21/microsoft-and-canonical-increase-velocity
 
 Compute IP address ranges (including SQL ranges) used by the Microsoft Azure Datacenters - Updated each week
 https://www.microsoft.com/en-us/download/details.aspx?id=41653&751be11f-ede8-5a0c-058c-2ee190a24fa6=True
+
+Scale Kubernetes pods and Kubernetes infrastructure
+https://docs.microsoft.com/en-us/azure/container-service/kubernetes/container-service-tutorial-kubernetes-scale
