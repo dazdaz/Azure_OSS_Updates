@@ -1,8 +1,16 @@
 # Azure_OSS_Updates
 Purpose: Track Azure OSS Updates, Links, Comments, Notes, OSS on Azure<br>
 Disclaimer: Personal colleciton of links, not endorsed by Microsoft<br>
+
 <br>
-Date: 22/09/2017<br>
+Date: 25/09/2017<br>
+Update: #2<br>
+<br>
+https://github.com/brendandburns/acs-ignite-demos
+
+
+<br>
+Date: 18/09/2017<br>
 Update: #1<br>
 <br>
 
