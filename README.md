@@ -8,7 +8,7 @@ Update: #2<br>
 Video interview with Azure Container Instance, Principal Program Manager :  Sean McKenna
 https://channel9.msdn.com/Shows/Tuesdays-With-Corey/Tuesdays-with-Corey-Azure-Container-Instances
 
-Brendan Burns - Demos from Ignote 2017
+Brendan Burns - Demos from Ignite 2017
 https://github.com/brendandburns/acs-ignite-demos
 
 Date: 18/09/2017<br>
