@@ -4,7 +4,6 @@ Disclaimer: Personal colleciton of links, not endorsed by Microsoft<br>
 
 Date: 25/09/2017<br>
 Update: #2<br>
-<br>
 
 Video interview with Azure Container Instance, Principal Program Manager :  Sean McKenna
 https://channel9.msdn.com/Shows/Tuesdays-With-Corey/Tuesdays-with-Corey-Azure-Container-Instances
