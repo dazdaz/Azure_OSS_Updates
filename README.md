@@ -12,7 +12,7 @@ https://channel9.msdn.com/Shows/Tuesdays-With-Corey/Tuesdays-with-Corey-Azure-Co
 Brendan Burns - Demos from Ignote 2017
 https://github.com/brendandburns/acs-ignite-demos
 
-<br><br>
+<br>
 Date: 18/09/2017<br>
 Update: #1<br>
 <br>
