@@ -5,10 +5,15 @@ Disclaimer: Personal colleciton of links, not endorsed by Microsoft<br>
 Date: 25/09/2017<br>
 Update: #2<br>
 
+Using Ansible with VSTS (Team Services)
+https://marketplace.visualstudio.com/items?itemName=ms-vscs-rm.vss-services-ansible
+https://azure.microsoft.com/en-us/blog/visual-studio-team-services-august-2017-digest/
+https://docs.microsoft.com/en-us/vsts/release-notes/2017/aug-04-team-services
+
 Video interview with Azure Container Instance, Principal Program Manager :  Sean McKenna
 https://channel9.msdn.com/Shows/Tuesdays-With-Corey/Tuesdays-with-Corey-Azure-Container-Instances
 
-Brendan Burns - Demos from Ignite 2017
+Brendan Burns - Code to demo's from Ignite 2017
 https://github.com/brendandburns/acs-ignite-demos
 
 Date: 18/09/2017<br>
