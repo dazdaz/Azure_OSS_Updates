@@ -5,6 +5,9 @@ Disclaimer: Personal colleciton of links, not endorsed by Microsoft<br>
 Date: 25/09/2017<br>
 Update: #2<br>
 
+Windows Server 1709 contains several enhancements for Docker customers
+https://blog.docker.com/2017/09/docker-windows-server-1709/
+
 Docker on Azure Hands-On Lab - Docker to Helm
 https://github.com/ragsns/dockeronazure.git
 
