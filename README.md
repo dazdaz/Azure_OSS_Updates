@@ -5,6 +5,15 @@ Disclaimer: Personal colleciton of links, not endorsed by Microsoft<br>
 Date: 25/09/2017<br>
 Update: #2<br>
 
+Docker on Azure Hands-On Lab - Docker to Helm
+https://github.com/ragsns/dockeronazure.git
+
+Instructions on how to instantiate a multi-node, IPv6-only Kubernetes cluster
+https://github.com/leblancd/kube-v6
+
+Updates in Maven, Jenkins, Visual Studio Code and IntelliJ help Java developers rapidly adopt cloud-native patterns in Azure and debug faster, as well as added support for Managed Disks, Cosmos DB and Container Service in the Azure Management Libraries for Java
+https://azure.microsoft.com/en-us/blog/ready-for-javaone-bringing-java-and-kubernetes-together-in-azure/
+
 Using Ansible with VSTS (Team Services)
 https://marketplace.visualstudio.com/items?itemName=ms-vscs-rm.vss-services-ansible
 https://azure.microsoft.com/en-us/blog/visual-studio-team-services-august-2017-digest/
