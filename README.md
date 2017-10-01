@@ -5,6 +5,9 @@ Disclaimer: Personal colleciton of links, not endorsed by Microsoft<br>
 Date: 25/09/2017<br>
 Update: #2<br>
 
+Seven reasons why so many Node.js devs are excited about Microsoft Azure
+https://azure.microsoft.com/en-us/blog/seven-reasons-why-so-many-node-js-devs-are-excited-about-microsoft-azure/
+
 Windows Server 1709 contains several enhancements for Docker customers
 https://blog.docker.com/2017/09/docker-windows-server-1709/
 
