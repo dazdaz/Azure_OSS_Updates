@@ -2,6 +2,15 @@
 Purpose: Track Azure OSS Updates, Links, Comments, Notes, OSS on Azure<br>
 Disclaimer: Personal colleciton of links, not endorsed by Microsoft<br>
 
+Date: 02/10/2017<br>
+Update: #3<br>
+<br>
+
+Python code to call the ACI SDK, here it is https://github.com/Azure/azure-sdk-for-python/tree/master/azure-mgmt-containerinstance
+
+Azure Container Instance command line options
+https://github.com/Azure/azure-cli/tree/master/src/command_modules/azure-cli-container
+
 Date: 25/09/2017<br>
 Update: #2<br>
 
