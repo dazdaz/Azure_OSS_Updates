@@ -6,6 +6,9 @@ Date: 02/10/2017<br>
 Update: #3<br>
 <br>
 
+acs-engine 0.8.0 - Kubernetes v1.6.11, v1.7.7, and v1.8.0 support
+https://github.com/Azure/acs-engine/releases/tag/v0.8.0
+
 Azure Functions Supports Java
 https://www.geekwire.com/2017/microsoft-adds-support-java-azure-functions-serverless-service/
 
