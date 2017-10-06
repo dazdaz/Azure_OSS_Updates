@@ -6,6 +6,9 @@ Date: 02/10/2017<br>
 Update: #3<br>
 <br>
 
+Azure Functions Supports Java
+https://www.geekwire.com/2017/microsoft-adds-support-java-azure-functions-serverless-service/
+
 Microsoft Azure SDK for Python https://github.com/Azure/azure-sdk-for-python/tree/master/azure-mgmt-containerinstance
 
 Azure Container Instance command line options
