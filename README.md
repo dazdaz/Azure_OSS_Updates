@@ -2,6 +2,13 @@
 Purpose: Track Azure OSS Updates, Links, Comments, Notes, OSS on Azure<br>
 Disclaimer: Personal colleciton of links, not endorsed by Microsoft<br>
 
+Date: 09/10/2017<br>
+Update: #4<br>
+<br>
+
+CI/CD with Jenkins Pipeline and Azure 
+https://jenkins.io/blog/2017/08/10/kubernetes-with-pipeline-acs/#ci-cd-with-jenkins-pipeline-and-azure
+
 Date: 02/10/2017<br>
 Update: #3<br>
 <br>
