@@ -6,6 +6,9 @@ Date: 09/10/2017<br>
 Update: #4<br>
 <br>
 
+Microsoft Support Policy on Containers
+https://support.microsoft.com/en-us/help/4035670/support-policy-for-containers
+
 Azure Container Services Kubernetes 1.7 Branch
 https://github.com/Azure/kubernetes/tree/release-1.7
 
