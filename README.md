@@ -6,6 +6,9 @@ Date: 09/10/2017<br>
 Update: #4<br>
 <br>
 
+OpenShift Container Platform 3.6 with Username / Password authentication for OpenShift
+https://github.com/mglantz/ocp36-azure-cns/blob/master/README.md
+
 Enabling getting telemetry data for .NET Core application running inside containers that managed by Kubernetes.
 https://github.com/Microsoft/ApplicationInsights-Kubernetes/
 
