@@ -6,6 +6,9 @@ Date: 09/10/2017<br>
 Update: #4<br>
 <br>
 
+Enabling getting telemetry data for .NET Core application running inside containers that managed by Kubernetes.
+https://github.com/Microsoft/ApplicationInsights-Kubernetes/
+
 Microsoft Support Policy on Containers
 https://support.microsoft.com/en-us/help/4035670/support-policy-for-containers
 
