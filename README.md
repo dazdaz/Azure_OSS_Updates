@@ -5,6 +5,11 @@ Disclaimer: Personal colleciton of links, not endorsed by Microsoft<br>
 Date: 09/10/2017<br>
 Update: #4<br>
 <br>
+ACR Roadmap
+https://github.com/Azure/acr/blob/master/docs/acr-roadmap.md
+
+ACR is now GA with 3 SKU's - Basic, Standard, Premium.  Classic SKU will be deprecated
+https://docs.microsoft.com/en-us/azure/container-registry/container-registry-skus
 
 OpenShift Container Platform 3.6 with Username / Password authentication for OpenShift
 https://github.com/mglantz/ocp36-azure-cns/blob/master/README.md
