@@ -5,6 +5,11 @@ Disclaimer: Personal colleciton of links, not endorsed by Microsoft<br>
 Date: 09/10/2017<br>
 Update: #4<br>
 <br>
+
+Presentations on .NET+Containers from Steve Lasker
+https://github.com/stevelasker/presentations
+https://github.com/SteveLasker/Presentations/tree/master/ProductSlides
+
 ACR Roadmap
 https://github.com/Azure/acr/blob/master/docs/acr-roadmap.md
 
