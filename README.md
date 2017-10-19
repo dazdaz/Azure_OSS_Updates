@@ -7,9 +7,10 @@ Update: #4<br>
 <br>
 
 App Service on Linux
-https://channel9.msdn.com/Shows/Azure-Friday/App-Service-on-Linux
-https://channel9.msdn.com/events/Connect/2016/199 Nazim Lala
-https://channel9.msdn.com/events/Ignite/New-Zealand-2016/M355
+https://channel9.msdn.com/events/Build/2017/B8026<br>
+https://channel9.msdn.com/Shows/Azure-Friday/App-Service-on-Linux<br>
+https://channel9.msdn.com/events/Connect/2016/199 Nazim Lala<br>
+https://channel9.msdn.com/events/Ignite/New-Zealand-2016/M355<br>
 
 Presentations on .NET+Containers from Steve Lasker
 https://github.com/stevelasker/presentations
