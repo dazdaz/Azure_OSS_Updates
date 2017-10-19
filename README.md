@@ -6,11 +6,12 @@ Date: 09/10/2017<br>
 Update: #4<br>
 <br>
 
-App Service on Linux
-https://channel9.msdn.com/events/Build/2017/B8026<br>
+https://www.youtube.com/watch?v=s0crdDpkWEk An overview of Web Apps for Containers on Linux - Sunitha Muthukrishna<BR>
+https://channel9.msdn.com/events/Build/2017/B8026 App Service on Linux<br>
 https://channel9.msdn.com/Shows/Azure-Friday/App-Service-on-Linux<br>
 https://channel9.msdn.com/events/Connect/2016/199 Nazim Lala<br>
 https://channel9.msdn.com/events/Ignite/New-Zealand-2016/M355<br>
+https://www.youtube.com/watch?v=y_zAJZC_8Yk&feature=youtu.be Azure Friday: Azure App Service with Hybrid Connections to On-premises Resources<BR>
 
 Presentations on .NET+Containers from Steve Lasker
 https://github.com/stevelasker/presentations
