@@ -2,9 +2,18 @@
 Purpose: Track Azure OSS Updates, Links, Comments, Notes, OSS on Azure<br>
 Disclaimer: Personal colleciton of links, not endorsed by Microsoft<br>
 
+
+Date: 23/10/2017<br>
+Update: #5<br>
+<br>
+
+
 Date: 09/10/2017<br>
 Update: #4<br>
 <br>
+
+Autoscaling a Kubernetes cluster created with acs-engine on Azure
+https://medium.com/@wbuchwalter/autoscaling-a-kubernetes-cluster-created-with-acs-engine-on-azure-5e24ddc6402e
 
 https://www.youtube.com/watch?v=s0crdDpkWEk An overview of Web Apps for Containers on Linux - Sunitha Muthukrishna<BR>
 https://channel9.msdn.com/events/Build/2017/B8026 App Service on Linux<br>
