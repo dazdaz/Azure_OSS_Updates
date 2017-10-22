@@ -7,6 +7,8 @@ Date: 23/10/2017<br>
 Update: #5<br>
 <br>
 
+Open Source Weekly #2
+https://open.microsoft.com/2017/10/20/open-source-weekly-october-20/
 
 Date: 09/10/2017<br>
 Update: #4<br>
