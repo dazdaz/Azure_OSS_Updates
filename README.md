@@ -7,6 +7,10 @@ Date: 23/10/2017<br>
 Update: #5<br>
 <br>
 
+DNS Updates using Azure Functions
+https://svenmeury.ch/dynamic-dns-updates-with-azure-function-app/
+
+
 Open Source Weekly #2
 https://open.microsoft.com/2017/10/20/open-source-weekly-october-20/
 
