@@ -2,6 +2,12 @@
 Purpose: Track Azure OSS Updates, Links, Comments, Notes, OSS on Azure<br>
 Disclaimer: Personal colleciton of links, not endorsed by Microsoft<br>
 
+Date: 30/10/2017<br>
+Update: #6<br>
+<br>
+
+Build out Docker Swarm on Azure using Terraform
+http://container-solutions.com/docker-swarm-azure-container-services/
 
 Date: 23/10/2017<br>
 Update: #5<br>
