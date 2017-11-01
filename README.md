@@ -5,6 +5,11 @@ Disclaimer: Personal colleciton of links, not endorsed by Microsoft<br>
 Date: 30/10/2017<br>
 Update: #6<br>
 <br>
+Install NVIDIA GPU drivers on N-series VMs running Linux
+https://docs.microsoft.com/en-us/azure/virtual-machines/linux/n-series-driver-setup
+
+How to use GPUs in OpenShift and Kubernetes
+https://blog.openshift.com/use-gpus-openshift-kubernetes/
 
 Build out Docker Swarm on Azure using Terraform
 http://container-solutions.com/docker-swarm-azure-container-services/
